@@ -1,19 +1,9 @@
-/* Mohammed Brohi
-Course CIS144
-Date: Feb 4 2019
-Assignment: Temprature conversion
-Description: Simple to print out data */
 
 
 
 
-// Assignment Temprature converter
-//Class import for inputs Java
 
-
-
-
-mport java.util.Scanner; // using Scanner
+import java.util.Scanner; // using Scanner
 
 public class TempConverter {
 
